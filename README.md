@@ -84,7 +84,7 @@ An interactive Tableau dashboard was developed to present the six analyses in a 
 Bank-Customer-Churn-Analysis/
 │
 ├── data/
-│   └── bank_customer_churn_cleaned.csv
+│   └── cleaned_bank_customer_churn.csv
 │
 ├── notebooks/
 │   └── Bank_Customer_Churn_EDA.ipynb
